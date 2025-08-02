@@ -3,10 +3,10 @@
 ## 🟠 HTML – Multiple Choice Questions
 
 **1. What does HTML stand for?**  
-A) HyperText Markdown Language  
-B) HyperTool Markup Language  
-C) HyperText Markup Language  
-D) HighText Machine Language  
+A) HyperText Markdown Language.  
+B) HyperTool Markup Language.
+C) HyperText Markup Language.  
+D) HighText Machine Language.  
 ✅ **Correct:** C
 
 **2. Which HTML tag is used to create a hyperlink?**  
